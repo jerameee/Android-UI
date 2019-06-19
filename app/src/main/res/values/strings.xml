@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Jeramee</string>
+    <string name="button_label_jeramee">Jeramee</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="jeramee_message">Hello Jeramee!</string>
+</resources>
